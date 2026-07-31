@@ -1,6 +1,5 @@
 ## Hi 👋, I'm Muhammed Doğancan Yılmazoğlu
 
-## About Me 📖💻
 I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I primarily work with React, Vue.js, and TypeScript, and enjoy turning complex requirements into clean, maintainable code.
 
 Always open to learning, collaborating, and building great software.
