@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=angular,react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,vue,nextjs,electron,ts,js,nodejs,npm,vite,pinia,redux,html,css,tailwind,materialui,spring,postgres,mysql,sqlite,prisma,vitest,selenium,postman,git,github,vscode)](https://skillicons.dev)
 
 <!--
 **dgndds/dgndds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
