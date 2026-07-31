@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋, I'm Muhammed Doğancan Yılmazoğlu
+
+## About Me 💼📩💻📖
+
+## Skills 👋
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,nextjs,electron,ts,js,nodejs,npm,vite,pinia,redux,html,css,tailwind,materialui,spring,postgres,mysql,sqlite,prisma,vitest,selenium,postman,git,github,vscode)](https://skillicons.dev)
 
 <!--
