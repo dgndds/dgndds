@@ -12,8 +12,8 @@ Frontend Developer with **4 years of experience** in the software development in
 ## Skills 👋
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,nextjs,electron,ts,js,nodejs,npm,vite,pinia,redux,html,css,tailwind,materialui,spring,postgres,mysql,sqlite,prisma,vitest,selenium,postman,git,github,vscode)](https://skillicons.dev)
 
-<details open>
-<summary>🚀 Featured Projects</summary>
+
+## Featured Projects 🚀
 
 ### Streaky [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app)
 
