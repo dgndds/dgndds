@@ -17,9 +17,13 @@ Frontend Developer with **4 years of experience** in the software development in
 
 ### Streaky [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app)
 
+<details>
+<summary>View Details</summary>
+
 A full-stack habit tracking application with user authentication, habit management, and progress visualization.
 
 **Tech:** React • Spring Boot • PostgreSQL
+</details>
 
 ### Portfolio Page [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://mdy.center)
 
