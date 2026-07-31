@@ -20,7 +20,8 @@ A full-stack habit tracking application with user authentication, habit manageme
 
 **Tech:** React • Spring Boot • PostgreSQL
 
-🔗 Demo | Repository
+🔗 [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)]([https://github.com/yourname/streaky](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app))
+
 
 ## Future Endeavors 🌱
 I'm currently expanding my skills in Spring Boot, PostgreSQL, and backend architecture as I work toward becoming a Full-Stack Developer. I enjoy learning new technologies, solving challenging problems, and continuously improving my development practices.
@@ -28,27 +29,5 @@ I'm currently expanding my skills in Spring Boot, PostgreSQL, and backend archit
 
 ## Contact Me 📩
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile](https://tr.linkedin.com/in/muhammed-do%C4%9Fancan-y%C4%B1lmazo%C4%9Flu))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile**](https://tr.linkedin.com/in/muhammed-doğancan-yılmazoğlu))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://mdy.center)
-
-
-
-
-
-
-
-
-
-<!--
-**dgndds/dgndds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
