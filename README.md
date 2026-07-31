@@ -12,6 +12,8 @@ Frontend Developer with **4 years of experience** in the software development in
 ## Skills 👋
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,nextjs,electron,ts,js,nodejs,npm,vite,pinia,redux,html,css,tailwind,materialui,spring,postgres,mysql,sqlite,prisma,vitest,selenium,postman,git,github,vscode)](https://skillicons.dev)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dgnddsE&layout=compact)
+
 
 ## Featured Projects 🚀
 
@@ -27,15 +29,23 @@ A full-stack habit tracking application with user authentication, habit manageme
 
 ### Portfolio Page [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://mdy.center)
 
+<details>
+<summary>View Details</summary>
+
+
 A personal portfolio website built to showcase my software development journey, featured projects, technical expertise, and career growth.
 
 **Tech:** React + TypeScript + Nginx + AWS
+</details>
 
 ### Shopping Application [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)](https://github.com/dgndds/Fullstack-NextJs-Shop-App)
+<details>
+<summary>View Details</summary>
 
 A production-inspired e-commerce platform developed with Next.js to explore modern full-stack web development. The application showcases authentication, product management, shopping cart functionality, and responsive UI design while leveraging contemporary web technologies and best practices.
 
 **Tech:** Next JS + TypeScript + Supabase + Vercel
+</details>
 
 ## Future Endeavors 🌱
 I'm currently expanding my skills in Spring Boot, PostgreSQL, and backend architecture as I work toward becoming a Full-Stack Developer. I enjoy learning new technologies, solving challenging problems, and continuously improving my development practices.
