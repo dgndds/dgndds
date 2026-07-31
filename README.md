@@ -8,20 +8,23 @@ Always open to learning, collaborating, and building great software.
 
 Frontend Developer with **4 years of experience** in the software development industry, specializing in building modern, responsive, and maintainable web applications. Experienced in developing enterprise applications using React, Vue.js, TypeScript, and modern frontend technologies while collaborating with cross-functional teams to deliver high-quality solutions.
 
-
-## Skills 👋
+## Skills 🛠
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,nextjs,electron,ts,js,nodejs,npm,vite,pinia,redux,html,css,tailwind,materialui,spring,postgres,mysql,sqlite,prisma,vitest,selenium,postman,git,github,vscode)](https://skillicons.dev)
 
-## Top Languages 🥇
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dgndds&langs_count=4)
+## Future Endeavors 🌱
+I'm currently expanding my skills in Spring Boot, PostgreSQL, and backend architecture as I work toward becoming a Full-Stack Developer. I enjoy learning new technologies, solving challenging problems, and continuously improving my development practices.
 
+## Statistics
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dgndds&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=dgndds&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
+
+## Top Languages 🥇
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dgndds&layout=compact&hide_title=true&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=dgndds&layout=compact&hide_title=true&langs_count=4&theme=catppuccin_latte)
 
 ## Featured Projects 🚀
 
 ### Streaky [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=dgndds&repo=spring-boot-react-postgresql-habit-tracker-app)](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dgndds&repo=dgndds%2Fspring-boot-react-postgresql-habit-tracker-app&show_owner=true&description_lines_count=3&theme=catppuccin_latte)](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app)
 
 <details>
 <summary>View Details</summary>
@@ -30,6 +33,8 @@ A full-stack habit tracking application with user authentication, habit manageme
 
 **Tech:** React • Spring Boot • PostgreSQL
 </details>
+
+---
 
 ### Portfolio Page [![Demo](https://img.shields.io/badge/Demo-Live-success)](https://mdy.center)
 
@@ -42,7 +47,10 @@ A personal portfolio website built to showcase my software development journey, 
 **Tech:** React + TypeScript + Nginx + AWS
 </details>
 
+---
+
 ### Shopping Application [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)](https://github.com/dgndds/Fullstack-NextJs-Shop-App)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dgndds&repo=dgndds%2FFullstack-NextJs-Shop-App&show_owner=true&description_lines_count=3&theme=catppuccin_latte)](https://github.com/dgndds/Fullstack-NextJs-Shop-App)
 <details>
 <summary>View Details</summary>
 
@@ -51,8 +59,7 @@ A production-inspired e-commerce platform developed with Next.js to explore mode
 **Tech:** Next JS + TypeScript + Supabase + Vercel
 </details>
 
-## Future Endeavors 🌱
-I'm currently expanding my skills in Spring Boot, PostgreSQL, and backend architecture as I work toward becoming a Full-Stack Developer. I enjoy learning new technologies, solving challenging problems, and continuously improving my development practices.
+---
 
 ## Contact Me 📩
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://tr.linkedin.com/in/muhammed-doğancan-yılmazoğlu)
