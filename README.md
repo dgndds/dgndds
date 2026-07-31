@@ -15,19 +15,15 @@ Frontend Developer with **4 years of experience** in the software development in
 
 ## 🚀 Featured Projects
 
-### Streaky
+### Streaky [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app)
+
 A full-stack habit tracking application with user authentication, habit management, and progress visualization.
 
 **Tech:** React • Spring Boot • PostgreSQL
 
-🔗 [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)]([https://github.com/yourname/streaky](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app))
-
-
 ## Future Endeavors 🌱
 I'm currently expanding my skills in Spring Boot, PostgreSQL, and backend architecture as I work toward becoming a Full-Stack Developer. I enjoy learning new technologies, solving challenging problems, and continuously improving my development practices.
 
-
 ## Contact Me 📩
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/your-profile**](https://tr.linkedin.com/in/muhammed-doğancan-yılmazoğlu))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://tr.linkedin.com/in/muhammed-doğancan-yılmazoğlu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://mdy.center)
