@@ -13,7 +13,7 @@ Frontend Developer with **4 years of experience** in the software development in
 [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,nextjs,electron,ts,js,nodejs,npm,vite,pinia,redux,html,css,tailwind,materialui,spring,postgres,mysql,sqlite,prisma,vitest,selenium,postman,git,github,vscode)](https://skillicons.dev)
 
 ## Top Languages 🥇
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dgndds&langs_count=4
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=dgndds&langs_count=4)
 
 
 ## Featured Projects 🚀
