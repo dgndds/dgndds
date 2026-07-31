@@ -20,6 +20,9 @@ Frontend Developer with **4 years of experience** in the software development in
 
 ### Streaky [![Repository](https://img.shields.io/badge/Repository-181717?logo=github)](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app)
 
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/dgndds/spring-boot-react-postgresql-habit-tracker-app))
+
+
 <details>
 <summary>View Details</summary>
 
